@@ -100,7 +100,7 @@ DATABASES = {
         'PORT': '3306',
         'NAME': 'portfolio',
         'USER': 'root',
-        'PASSWORD': 'Z3ama@Mysql8',
+        'PASSWORD': '',
     },
 }
 
